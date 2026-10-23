@@ -3,6 +3,13 @@
 이 저장소에는 **설치 파일만** 올라갑니다 (소스 코드는 없습니다).
 최신 버전은 [Releases](../../releases/latest) 에서 받으세요.
 
+> **회사망에서 github.com 이 막혀 있으면** 아래 주소로 받으세요 (같은 파일):
+> - Windows: https://samsungbiologics-newsletter-editor.vercel.app/download/SBL-Newsletter-editor-win-setup.exe
+> - Mac (Apple 칩): https://samsungbiologics-newsletter-editor.vercel.app/download/SBL-Newsletter-editor-mac-arm64.dmg
+> - Mac (Intel): https://samsungbiologics-newsletter-editor.vercel.app/download/SBL-Newsletter-editor-mac-x64.dmg
+>
+> 웹 에디터 ⚙ Settings › Desktop app 버튼도 이 주소로 연결됩니다. v0.5.4 부터 앱의 새 버전 확인도 이 주소를 씁니다.
+
 | 컴퓨터 | 파일 |
 | --- | --- |
 | Mac (Apple 칩: M1·M2·M3·M4…) | `SBL-Newsletter-editor-mac-arm64.dmg` |
